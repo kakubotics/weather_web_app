@@ -1,0 +1,50 @@
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+
+.jumbotron{
+
+	height:600px;
+	background-image: url(bck.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: black;
+    
+    
+}
+
+.form-control{
+
+	width:320px;
+}
+
+#weather{
+
+	width:300px;
+	margin-top: 10px;
+}
+#ask{
+
+	margin-left: 80px;
+	position:relative;
+	top:-20px;
+}
+#back{
+
+	background-color: black;
+}
+#maker{
+  	
+  	position:relative;
+  	top:-25px;
+  	left:10px;
+}
+
